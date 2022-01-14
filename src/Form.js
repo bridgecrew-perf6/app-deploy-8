@@ -50,7 +50,7 @@ class Form extends Component {
         />
         <label htmlFor="hireDate">Hire Date</label>
         <input
-          type="text"
+          type="date"
           name="hireDate"
           id="hireDate"
           value={hireDate}
